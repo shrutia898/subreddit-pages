@@ -18,8 +18,11 @@ This project is a simple web application built with Express.js and EJS to displa
 2. Navigate into the project directory:
 
 3. Install dependencies:
+     - npm i -g nodemon (Convenience)
+     - npm i express.js (Required)
+     - npm i node (Required)
 
-4. ## Usage
+5. ## Usage
 
 1. Start the server:
 
