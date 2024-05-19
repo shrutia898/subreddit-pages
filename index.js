@@ -19,10 +19,6 @@ app.get('/r/:subreddit', (req, res)=>{
         res.render('unknown.ejs', {subreddit})
     }
 })
-app.get('/rand', (req, res) => {
-    const randNum = Math.floor(Math.random() * 10) + 1;
-    res.render('random.ejs', {num: randNum})
-})
 app.listen(3000, () => {
     console.log("Listening on port: 3000")
 })
