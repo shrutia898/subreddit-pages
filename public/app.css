@@ -1,0 +1,38 @@
+body {
+    background-color: #3f86ad; /* Light blue background */
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color: #ffffff; /* White container background */
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand {
+    font-weight: bold;
+    color: #335577; /* Dark blue */
+}
+.navbar-nav .nav-item .nav-link {
+    color: #335577; /* Dark blue */
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: #2a4365; /* Darker blue on hover */
+}
+.card {
+    border: none;
+    background-color: #f8f9fa; /* Light gray */
+    margin-bottom: 20px;
+}
+.card-title {
+    color: #2a4365; /* Darker blue */
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.card-text {
+    color: #576b7d; /* Medium grayish blue */
+}
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+}

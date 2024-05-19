@@ -1,0 +1,59 @@
+{
+    "cooking": {
+        "name": "Cooking",
+        "subscribers": 800000,
+        "description": "The cooking subreddit! Share food, make friends, and cook your heart out!",
+        "posts": [
+            {
+                "title": "Wow, just tried out this new recipe for garlic butter shrimp and it was AMAZING! The flavors were so rich and the shrimp were perfectly cooked. Definitely adding this one to my regular rotation!",
+                "author": "FoodieForever"
+            },
+            {
+                "title": "I made a few adjustments to the classic spaghetti carbonara recipe by adding some crispy pancetta and a touch of lemon zest. It turned out fantastic! The smokiness of the pancetta really elevated the dish. Highly recommend giving it a try!",
+                "author": "ChefInTraining"
+            },
+            {
+                "title": "For anyone looking for a hearty vegetarian meal, I whipped up a butternut squash and black bean chili last night. It was packed with flavor and had the perfect balance of sweetness from the squash and heat from the spices. Plus, it's so easy to make! Definitely a winner in my book.",
+                "author": "VeggieLover"
+            }
+        ]
+    },
+    "pets": {
+        "name": "Pets",
+        "subscribers": 2039560,
+        "description": "A place to post photos and videos of your adorable pets!",
+        "posts": [
+            {
+                "title": "Meet my adorable fur baby, Luna! She's the queen of the house and brings so much joy into my life every day. Here she is lounging in her favorite sun spot by the window, looking as regal as ever!",
+                "author": "CatLady",
+                "img": "https://preview.redd.it/how-long-is-too-long-for-a-cat-to-spend-in-the-sun-v0-g9bduj9k165b1.jpg?auto=webp&s=25737310edea577e528608c84ccafe15ccccde3c"
+            },
+            {
+                "title": "My cat is pregnant!!!",
+                "author": "CatMom"
+            },
+            {
+                "title": "My five year old dog is recovering from ear surgery!",
+                "author": "kroonies",
+                "img": "https://preview.redd.it/luna-my-sweet-one-eared-house-hippo-is-recovering-from-her-v0-aaqoiqhp671d1.jpg?width=3024&format=pjpg&auto=webp&s=a38c32e1feaf00d4e5e6dd00d0c9cdaf150667c9"
+            }
+        ]
+    },
+    "mightyharvest": {
+        "name": "Mighty Harvest",
+        "subscribers": 44002,
+        "description": "Feeding many villages and village idiots for 10s of days.",
+        "posts": [
+            {
+                "title": "My first meyer lemon ripened today. Im so proud of the little guy. Banana for scale",
+                "author": "proudmamma",
+                "img": "https://preview.redd.it/1bz6we4j54941.jpg?width=640&crop=smart&auto=webp&s=a036ea99299f7737efde9f6c3bfa43893f5eaa00"
+            },
+            {
+                "title": "I think I overestimated the harvest basket size I needed.",
+                "author": "grower123",
+                "img": "https://preview.redd.it/4h99osd25i351.jpg?width=640&crop=smart&auto=webp&s=d651250a345bbceeba7a66632e8c52a02d71bc73"
+            }
+        ]
+    }
+}
