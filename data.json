@@ -1,0 +1,150 @@
+{
+    "cooking": {
+        "header": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Cooking",
+        "subscribers": 800000,
+        "description": "The cooking subreddit! Share food, make friends, and cook your heart out!",
+        "posts": [
+            {
+                "title": "Wow, just tried out this new recipe for garlic butter shrimp and it was AMAZING! The flavors were so rich and the shrimp were perfectly cooked. Definitely adding this one to my regular rotation!",
+                "author": "FoodieForever"
+            },
+            {
+                "title": "I made a few adjustments to the classic spaghetti carbonara recipe by adding some crispy pancetta and a touch of lemon zest. It turned out fantastic! The smokiness of the pancetta really elevated the dish. Highly recommend giving it a try!",
+                "author": "ChefInTraining"
+            },
+            {
+                "title": "For anyone looking for a hearty vegetarian meal, I whipped up a butternut squash and black bean chili last night. It was packed with flavor and had the perfect balance of sweetness from the squash and heat from the spices. Plus, it's so easy to make! Definitely a winner in my book.",
+                "author": "VeggieLover"
+            },
+            {
+                "title": "Just made a mouthwatering apple pie with a flaky crust and a hint of cinnamon. It's the perfect comfort food for a cozy night in!",
+                "author": "BakingEnthusiast"
+            },
+            {
+                "title": "Tried my hand at homemade sushi rolls for the first time and they turned out surprisingly well! Who needs takeout when you can make sushi this good at home?",
+                "author": "SushiMaster"
+            },
+            {
+                "title": "Experimenting with fusion cuisine: I combined Italian pasta with Indian curry sauce, and it was a flavor explosion!",
+                "author": "FusionChef"
+            },
+            {
+                "title": "Just finished baking a batch of chocolate chip cookies, and they are ooey-gooey perfection! Who wants one?",
+                "author": "CookieMonster"
+            },
+            {
+                "title": "Made a refreshing watermelon salad with feta cheese and mint for a summer barbecue, and it was a hit! So light and flavorful.",
+                "author": "SummerSavors"
+            },
+            {
+                "title": "Crafted a decadent chocolate lava cake for dessert tonight, and it was pure indulgence! The warm, gooey center was heavenly.",
+                "author": "DessertDreamer"
+            },
+            {
+                "title": "Exploring the world of fermented foods: I just finished my first batch of homemade sauerkraut, and it's tangy perfection!",
+                "author": "FermentationFanatic"
+            }
+        ]
+    },
+    "pets": {
+        "header": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Pets",
+        "subscribers": 2039560,
+        "description": "A place to post photos and videos of your adorable pets!",
+        "posts": [
+            {
+                "title": "Meet my adorable fur baby, Luna! She's the queen of the house and brings so much joy into my life every day. Here she is lounging in her favorite sun spot by the window, looking as regal as ever!",
+                "author": "CatLady"
+    
+            },
+            {
+                "title": "My cat is pregnant!!!",
+                "author": "CatMom"
+            },
+            {
+                "title": "My five year old dog is recovering from ear surgery!",
+                "author": "kroonies"
+            },
+        
+            {
+                "title": "Introducing my mischievous kitten, Whiskers, who loves to play hide and seek!",
+                "author": "PlayfulPaws"
+            },
+            {
+                "title": "My pet rabbit, Snowball, loves to munch on fresh carrots from the garden! Look at those adorable munching cheeks!",
+                "author": "BunnyLover"
+            },
+            {
+                "title": "Meet my rescue pup, Buddy! He may have had a rough start, but now he's living his best life with all the love and cuddles he deserves.",
+                "author": "RescueHero"
+            },
+            {
+                "title": "Just adopted this little ball of fluff from the shelter! Say hello to my new kitten, Mittens!",
+                "author": "AdoptDontShop"
+            },
+            {
+                "title": "My parrot, Polly, learned a new trick today! She can now mimic the sound of the doorbell perfectly.",
+                "author": "FeatheredFriend"
+            },
+            {
+                "title": "Our family of guinea pigs enjoying a feast of fresh veggies! They're the cutest little veggie enthusiasts.",
+                "author": "GuineaPigGang"
+            },
+            {
+                "title": "My pet turtle, Sheldon, exploring his new aquarium setup! He's quite the curious little explorer.",
+                "author": "TurtleAdventures"
+            }
+        ]
+    },
+    "mightyharvest": {
+        "header": "https://images.unsplash.com/photo-1532509774891-141d37f25ae9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Mighty Harvest",
+        "subscribers": 44002,
+        "description": "Feeding many villages and village idiots for 10s of days.",
+        "posts": [
+            {
+                "title": "My first meyer lemon ripened today. Im so proud of the little guy. Banana for scale",
+                "author": "proudmamma"
+               
+            },
+            {
+                "title": "I think I overestimated the harvest basket size I needed.",
+                "author": "grower123"
+            },
+                
+            {
+                "title": "Check out the giant pumpkin I grew in my backyard! It's almost as big as me!",
+                "author": "GardenGuru"
+            },
+            {
+                "title": "Harvested the juiciest tomatoes from my garden today! Can't wait to turn them into fresh salsa.",
+                "author": "TomatoTender"
+            },
+            {
+                "title": "My homegrown strawberries are so sweet and flavorful! Nothing beats the taste of freshly picked berries.",
+                "author": "BerryBounty"
+            },
+            {
+                "title": "Successfully grew a variety of herbs in my kitchen garden! Fresh basil, cilantro, and mint for all my culinary experiments.",
+                "author": "HerbHarvester"
+            },
+            {
+                "title": "The sunflowers in my backyard garden are in full bloom, attracting bees and bringing so much vibrancy to the space!",
+                "author": "SunflowerSpectacle"
+            },
+            {
+                "title": "My backyard orchard is thriving! Can't wait to enjoy the fruits of my labor come harvest season.",
+                "author": "OrchardOwner"
+            },
+            {
+                "title": "Picked a bumper crop of cucumbers from my garden and now I have enough to make pickles for the whole neighborhood!",
+                "author": "PicklePioneer"
+            },
+            {
+                "title": "My homegrown pumpkins are ready just in time for Halloween! Time to carve some spooky jack-o'-lanterns.",
+                "author": "PumpkinPatchProud"
+            }
+        ]
+    }
+}

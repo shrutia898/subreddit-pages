@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="/app.css">
+</head>
+<style>
+   /* Remove margins and padding from body and HTML */
+   body, html {
+       margin: 0;
+       padding: 0;
+       height: 100%;
+   }
+   .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;  
+        transform: translate(-50%, -50%);
+        color: white;
+        text-align: center;
+    }
+    h1{
+        font-size: 120px;
+    }
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1; /* Ensure the image stays behind other content */
+    }
+</style>
+<body>
+    <img src="https://images.unsplash.com/photo-1715594564902-89a9e4d67dfa?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Background image">
+    <section class="centered">
+        <h1>Tweety</h1>
+        <p>Share Your Experiences</p>
+        <div class="button-thread p-3">
+            <a href="/r/cooking" class="btn btn-light btn-lg">Start Exploring</a>
+        </div>
+    </section>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Eygb0SMKi5RQ7np2vaRcFajtCrz5TQP4RfF5h19p46bMTaJqZgDXjE30oJKMWSkg" crossorigin="anonymous"></script>
+</body>
+</html>
